@@ -14,7 +14,7 @@ Here are some ideas to get you started:-->
 
 **<div align="center">Hi, I'm YuShan✋</div>**  
 <div align="center">
-<img lign="right" alt="image" width= "400" src="https://media3.giphy.com/media/k0ijJhqrUP4T2EvmJ1/200w.gif" />
+<img align="right" alt="image" width= "400" src="https://media3.giphy.com/media/k0ijJhqrUP4T2EvmJ1/200w.gif" />
 </div>  
   
 
@@ -46,7 +46,7 @@ Here are some ideas to get you started:-->
 
 
 ## Connect with me  
-<div align="center">
+<div align="left">
 <a href="https://linkedin.com/in/Yushan Hung" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
