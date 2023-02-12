@@ -14,11 +14,11 @@ Here are some ideas to get you started:-->
 
 **<div align="center">Hi, I'm YuShan✋</div>**  
 <div align="center">
-<!-- <img src="" align="center" style="width: 100%" />
+<<img lign="right" alt="image" width= "400" src="https://media3.giphy.com/media/k0ijJhqrUP4T2EvmJ1/200w.gif" a />
 </div>  
   
 
-<br/>  -->
+<br/>
 
 <!-- 🔭 I’m currently working on ...-->
 - 🌱 I’m currently learning C language
