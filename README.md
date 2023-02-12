@@ -14,7 +14,7 @@ Here are some ideas to get you started:-->
 
 **<div align="center">Hi, I'm YuShan✋</div>**  
 <div align="center">
-<<img lign="right" alt="image" width= "400" src="https://media3.giphy.com/media/k0ijJhqrUP4T2EvmJ1/200w.gif" a />
+<img lign="right" alt="image" width= "400" src="https://media3.giphy.com/media/k0ijJhqrUP4T2EvmJ1/200w.gif" />
 </div>  
   
 
@@ -31,7 +31,7 @@ Here are some ideas to get you started:-->
 
 
 ### Language and Tools  
-<div align="center">  
+<div align="left">  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
