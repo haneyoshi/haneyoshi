@@ -12,13 +12,13 @@ Here are some ideas to get you started:-->
 
 
 
-### Intro  
+**<div align="center">Hi, I'm YuShan✋</div>**  
 <div align="center">
-<img src="" align="center" style="width: 100%" />
+<!-- <img src="" align="center" style="width: 100%" />
 </div>  
   
 
-<br/>  
+<br/>  -->
 
 <!-- 🔭 I’m currently working on ...-->
 - 🌱 I’m currently learning C language
