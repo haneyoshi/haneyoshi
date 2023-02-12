@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi I'm YuShan 👋
 
 <!--
 **haneyoshi/haneyoshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,7 +12,6 @@ Here are some ideas to get you started:-->
 
 
 
-**<div align="center">Hi, I'm YuShan✋</div>**  
 <div align="center">
 <img align="right" alt="image" width= "400" src="https://media3.giphy.com/media/k0ijJhqrUP4T2EvmJ1/200w.gif" />
 </div>  
