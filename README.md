@@ -13,7 +13,7 @@ Here are some ideas to get you started:-->
 
 
 <div align="center">
-<img align="right" alt="image" width= "400" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fmedia.tenor.com%2FR6zEIJQaUh4AAAAC%2Fwe-bare-bears-ice-bear.gif&imgrefurl=https%3A%2F%2Ftenor.com%2Fview%2Fwe-bare-bears-ice-bear-hyperfocus-gif-26303293&tbnid=C20qDXOTb3s8iM&vet=12ahUKEwjwo8y-sqv9AhXAtFYBHQ8_CzoQMygDegUIARDyAQ..i&docid=HzafG49c1DbaRM&w=498&h=275&q=we%20bare%20bears%20computer%20gif&client=safari&ved=2ahUKEwjwo8y-sqv9AhXAtFYBHQ8_CzoQMygDegUIARDyAQ" />
+<img align="right" alt="image" width= "400" src="https://tenor.com/en-CA/view/we-bare-bears-ice-bear-hyperfocus-gif-26303293" />
 </div>  
   
 
