@@ -13,7 +13,7 @@ Here are some ideas to get you started:-->
 
 
 <div align="center">
-<img align="right" alt="image" width= "400" src="https://tenor.com/en-CA/view/we-bare-bears-ice-bear-hyperfocus-gif-26303293" />
+<img align="right" alt="image" width= "400" src="https://media.tenor.com/R6zEIJQaUh4AAAAC/we-bare-bears-ice-bear.gif" />
 </div>  
   
 
