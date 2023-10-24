@@ -20,7 +20,7 @@ Here are some ideas to get you started:-->
 <br/>
 
 <!-- 🔭 I’m currently working on ...-->
-- 🌱 I’m currently learning C language
+- 🌱 I'm teaching myself Machine Learning
 <!-- 👯 I’m looking to collaborate on -->
 <!--  🤔 I’m looking for help with -->
 <!--  💬 Ask me about -->
