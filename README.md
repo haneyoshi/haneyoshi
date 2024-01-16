@@ -27,7 +27,11 @@ Here are some ideas to get you started:-->
 <!--  📫 How to reach me: -->
 <!--  😄 Pronouns: -->
 <!--  ⚡ Fun fact: -->
-One does not discover new lands without concenting to lose sight of the shore for a very long time
+
+Favorit qoute:
+"One does not discover new lands without concenting to lose sight of the shore for a very long time"
+        -André Gide
+
 
 ### Language and Tools  
 <div align="left">  
