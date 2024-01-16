@@ -20,14 +20,14 @@ Here are some ideas to get you started:-->
 <br/>
 
 <!-- 🔭 I’m currently working on ...-->
-- 🌱 I'm teaching myself Machine Learning
+<!-- 🌱 I'm teaching myself Machine Learning -->
 <!-- 👯 I’m looking to collaborate on -->
 <!--  🤔 I’m looking for help with -->
 <!--  💬 Ask me about -->
 <!--  📫 How to reach me: -->
 <!--  😄 Pronouns: -->
 <!--  ⚡ Fun fact: -->
-
+One does not discover new lands without concenting to lose sight of the shore for a very long time
 
 ### Language and Tools  
 <div align="left">  
